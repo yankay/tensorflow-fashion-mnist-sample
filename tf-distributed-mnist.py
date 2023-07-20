@@ -7,7 +7,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow import keras
 print('TensorFlow version: {}'.format(tf.__version__))
-dataset_path = "/home/jovyan/"
+dataset_path = "/root/data"
 model_path = "./model/"
 model_version =  "v1"
 
